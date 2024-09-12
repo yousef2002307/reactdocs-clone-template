@@ -13,6 +13,8 @@ export const Nv= ({} : IProps) => {
  <li><NavLink to="/ab">About </NavLink></li>
  <li><NavLink to="/con">contact </NavLink></li>
  <li><NavLink to="/learn">lesran </NavLink></li>
+ <li><NavLink to="/login">login </NavLink></li>
+ <li><NavLink to="/cont"> contribute </NavLink></li>
  </ul>
  </div>
  </>       
